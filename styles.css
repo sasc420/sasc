@@ -1,13 +1,13 @@
 /* Set the background color for the entire body and navbar */
 body {
-  background-color: #F5F5DC; /* Light green (Cream-like) */
+  background-color: #d0dbcb; /* Light green (Cream-like) */
   font-family: Arial, sans-serif;
   margin: 0;
 }
 
 /* Navbar background color */
 .navbar {
-  background-color: #F5F5DC; /* Same green color as body */
+  background-color: #d0dbcb; /* Same green color as body */
 }
 
 /* Change the text color of SASC in the navbar */
