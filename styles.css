@@ -1,7 +1,7 @@
 /* Set the background color for the entire body and navbar */
 body {
   background-color: #F5F5DC; /* Light green (Cream-like) */
-  font-family: 'Press Start 2P', cursive; /* Pixel font */
+  font-family: Arial, sans-serif;
   margin: 0;
 }
 
