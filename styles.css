@@ -1,0 +1,40 @@
+/* Set the background color for the entire body and navbar */
+body {
+  background-color: #F5F5DC; /* Light green (Cream-like) */
+  font-family: 'Press Start 2P', cursive; /* Pixel font */
+  margin: 0;
+}
+
+/* Navbar background color */
+.navbar {
+  background-color: #F5F5DC; /* Same green color as body */
+}
+
+/* Change the text color of SASC in the navbar */
+.navbar-brand {
+  color: #603200 !important; /* Dark brown color */
+}
+
+
+/* Adjust other navbar elements if needed */
+.navbar-light .navbar-nav .nav-link {
+  color: #000000; /* Adjust navbar link color */
+}
+
+/* Main content adjustments */
+main.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Footer adjustments */
+footer.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Reducing margin around character images */
+.characters img {
+  max-width: 80%;
+  margin: 5px;
+}
